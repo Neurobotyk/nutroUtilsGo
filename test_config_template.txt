@@ -1,0 +1,10 @@
+password:Mypassword
+mail:me@mymail.com
+to:to@mail.com
+projectID:Name_of_My_Project
+reqFields:f1,f2,f3
+listFields:f1,f2,f3
+smtpServer:smtp.mail.com
+smtpServerPort:number
+colName:colectionName
+docName:documentName
